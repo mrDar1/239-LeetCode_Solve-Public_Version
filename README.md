@@ -4,15 +4,15 @@ All of them are in Java language.
 Most have several solutions.
 
 **Architecture**: Each source file is a single problem from Leetcode that can run on its own.  
-No file here depends on other files in the project.  
+Each file is standalone (==No file here depends on other files in the project.)  
 If a file has several solutions, the top part has the less efficient ones, and below are the more optimized solutions.
 
 ---
 
 **Recommendation:**  
-First, read the short theory, then start practicing the chapter.  
-Do the chapters one by one — theory + exercises — only then move to the next.  
-**open each problem at leetcode website and read problem before watch solution**
+First, read the "Short_Theory", then start practicing the chapter.  
+Do the chapters one by one — theory+exercises, theory+exercises — only then move to the next chapter.  
+**open each problem at leetcode website and read problem description before watch solution**
 
 ---
 
