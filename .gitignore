@@ -1,3 +1,7 @@
+out/
+.idea
+
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -27,3 +31,11 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
