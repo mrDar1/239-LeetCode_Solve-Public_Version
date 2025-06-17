@@ -1,25 +1,32 @@
-## here one found 239 problems and solutions - at Data Structure and algorithms.
-all of them at java language.
-most have several solutions.
+## Here one found 239 problems and solutions - in Data Structures and Algorithms.
 
-architecture: each source file is a single problem at leetcode, that can run by its own. no file here depend on other file at the project.
-if have several solutions on same file: at the top will have the less efficient solutions and next the more optimized solutions.
+All of them are in Java language.  
+Most have several solutions.
 
+**Architecture**: Each source file is a single problem from Leetcode that can run on its own.  
+No file here depends on other files in the project.  
+If a file has several solutions, the top part has the less efficient ones, and below are the more optimized solutions.
 
-recommend first read short theory and then start exercise the chapter.
-recommend doing chapters 1 by 1 theory + exercise, only after continue to next one.
+---
 
+**Recommendation:**  
+First, read the short theory, then start practicing the chapter.  
+Do the chapters one by one — theory + exercises — only then move to the next.  
+**open each problem at leetcode website and read problem before watch solution**
 
-Table of content:
-1  Readme + theory.
-2  Arrays and strings
-3  Hashmaps and Hashsets
-4  Linked lists
-5  Stacks and queues
-6  Trees
-7  Heaps
-8  Greedy algorithms
-9  Binary search
-10 Backtracking
-11 Dynamic programming
-13 Bonus
+---
+
+### 📘 Table of Contents:
+
+1. README + Theory  
+2. Arrays and Strings  
+3. Hashmaps and Hashsets  
+4. Linked Lists  
+5. Stacks and Queues  
+6. Trees  
+7. Heaps  
+8. Greedy Algorithms  
+9. Binary Search  
+10. Backtracking  
+11. Dynamic Programming  
+13. Bonus  
