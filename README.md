@@ -12,7 +12,7 @@ If a file has several solutions, the top part has the less efficient ones, and b
 **Recommendation:**  
 First, read the "Short_Theory", then start practicing the chapter.  
 Do the chapters one by one — theory+exercises, theory+exercises — only then move to the next chapter.  
-**open each problem at leetcode website and read problem description before watch solution**
+**at each problem, firs open leetcode website and read problem description before watch solution**
 
 ---
 
